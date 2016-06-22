@@ -6,7 +6,8 @@ RUN apk add --update py-pip
 RUN pip install Flask
 
 # bad command below
-comment
+# comment
+# multi-line comment
 #
 #
 #
