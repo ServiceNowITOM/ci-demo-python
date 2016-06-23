@@ -14,8 +14,4 @@ RUN pip install Flask
 #
 #
 #
-#
-#
-#
-#
 
