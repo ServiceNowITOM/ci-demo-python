@@ -6,7 +6,3 @@ RUN apk add --update py-pip
 RUN pip install Flask
 #
 #
-#
-#
-#
-#
